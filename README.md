@@ -1,2 +1,2 @@
 # MuffinJump
- Requires Unreal Engine (4.26) to run; built using Blueprints.
+ Unreal Engine 5.1; using Blueprints.
